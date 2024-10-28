@@ -1,0 +1,14 @@
+{
+    "name": "Inertia",
+    "id": "inertia_social",
+    "description": "Predictions for everyone ― by anyone",
+    "featuredImgUrl": "https://raw.githubusercontent.com/InertiaSocial/.github/refs/heads/main/inertia_bg.png",
+    "bannerImgUrl": "https://raw.githubusercontent.com/InertiaSocial/.github/refs/heads/main/banner.png",
+    "projectUrl": "https://inertia.social",
+    "missions": [
+        {
+            "name": "Create a Prediction",
+            // ...
+        }
+    ]
+}
