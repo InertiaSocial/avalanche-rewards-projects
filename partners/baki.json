@@ -7,9 +7,9 @@
       "name": "BAKI DEPOSITS",
       "id": "baki_deposit_missions",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
-      "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "bannerImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "projectUrl": "https://baki.exchange/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmZfZ5ruTh9AJWhUew7TFVn3Kebj13PhCvw7rTrRuRd79a",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmRzRH3NdrRNZqhrjm4JcyyWmkZp9dhjys6hpgZk4W8m3L",
+      "projectUrl": "https://baki.exchange/mint",
       "tags": [
         "DeFi"
       ],
@@ -43,9 +43,9 @@
       "id": "the_baki_daily_mint_ztokens_missions",
       "frequency": "daily",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
-      "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "bannerImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "projectUrl": "https://baki.exchange/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmZfZ5ruTh9AJWhUew7TFVn3Kebj13PhCvw7rTrRuRd79a",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmRzRH3NdrRNZqhrjm4JcyyWmkZp9dhjys6hpgZk4W8m3L",
+      "projectUrl": "https://baki.exchange/mint",
       "tags": [
         "DeFi"
       ],
@@ -71,7 +71,8 @@
               "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
               "method_id": "0x8e1868f4",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -96,7 +97,8 @@
               "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
               "method_id": "0x8e1868f4",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -121,7 +123,8 @@
               "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
               "method_id": "0x8e1868f4",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]

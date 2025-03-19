@@ -8,11 +8,12 @@
       "name": "JOE Token Swap",
       "description": "Perform a Swap: Buy Joe Tokens",
       "id": "lfj_swap_token",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
       "tags": [
         "DeFi"
       ],
+      "projectUrl": "https://lfj.gg/avalanche/trade",
       "total_points_reward": 80,
       "badge": {
         "name": "A True Joe Bro",
@@ -57,8 +58,9 @@
       "name": "Stake JOE Token",
       "description": "Experience the best of LFJ",
       "id": "lfj_stake_joe",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/stake/sjoe",
       "tags": [
         "DeFi"
       ],
@@ -93,12 +95,13 @@
       ]
     },
     {
-      "name": "LFJ daily swaps",
-      "description": "LFJ daily swaps",
-      "id": "lfj_daily_swaps_mission",
+      "name": "Daily swaps (AVAX)",
+      "description": "LFJ daily swaps (AVAX)",
+      "id": "lfj_daily_avax_swaps_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/trade",
       "tags": [
         "DeFi"
       ],
@@ -106,7 +109,7 @@
       "quests": [
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $2,500 worth of JOE Tokens",
+          "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -119,7 +122,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $2,500 worth of JOE Tokens",
+              "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -141,7 +144,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $5,000 worth of JOE Tokens",
+          "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -154,7 +157,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $5,000 worth of JOE Tokens",
+              "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -176,7 +179,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $10,000 worth of JOE Tokens",
+          "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -189,7 +192,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $10,000 worth of JOE Tokens",
+              "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -212,12 +215,136 @@
       ]
     },
     {
-      "name": "LFJ daily stakes",
-      "description": "LFJ daily stakes",
+      "name": "Daily swaps (Not AVAX)",
+      "description": "LFJ daily swaps (Not AVAX)",
+      "id": "lfj_daily_not_avax_swaps_mission",
+      "frequency": "daily",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/trade",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 2500,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 5000,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 10000,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Daily stakes",
+      "description": "Daily stakes",
       "id": "lfj_daily_stakes_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/stake/sjoe",
       "tags": [
         "DeFi"
       ],
@@ -243,7 +370,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -268,7 +396,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -293,7 +422,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -301,12 +431,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the AUSD - USDC pool",
+      "name": "Maintain balance in the AUSD - USDC pool",
       "description": "LFJ Maintain balance in the AUSD - USDC pool",
       "id": "lfj_daily_maintain_ausd_usdc_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x00000000efe302beaa2b3e6e1b18d08d69a9012a/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/1",
       "tags": [
         "DeFi"
       ],
@@ -402,12 +533,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the AUSD - USDT pool",
-      "description": "LFJ Maintain balance in the AUSD - USDT pool",
+      "name": "Maintain balance in the AUSD - USDT pool",
+      "description": "Maintain balance in the AUSD - USDT pool",
       "id": "lfj_daily_maintain_ausd_usdt_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x00000000efe302beaa2b3e6e1b18d08d69a9012a/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/1",
       "tags": [
         "DeFi"
       ],
@@ -503,12 +635,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the GGAVAX - AVAX pool",
-      "description": "LFJ Maintain balance in the GGAVAX - AVAX pool",
+      "name": "Maintain balance in the GGAVAX - AVAX pool",
+      "description": "Maintain balance in the GGAVAX - AVAX pool",
       "id": "lfj_daily_maintain_ggavax_avax_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3/AVAX/5",
       "tags": [
         "DeFi"
       ],
@@ -604,20 +737,21 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the SAVAX - AVAX pool",
+      "name": "Maintain balance in the SAVAX - AVAX pool",
       "description": "LFJ Maintain balance in the SAVAX - AVAX pool",
       "id": "lfj_daily_maintain_savax_avax_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be/AVAX/5",
       "tags": [
         "DeFi"
       ],
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -629,9 +763,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "",
               "metadata": {
@@ -646,7 +780,7 @@
         },
         {
           "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -658,8 +792,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",
@@ -674,8 +808,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -687,8 +821,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $10000 in GSAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $10,000 in GSAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",

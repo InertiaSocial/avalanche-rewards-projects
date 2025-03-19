@@ -9,7 +9,7 @@
       "description": "Mint aUSD with sAVAX/USDT/USDC/AVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://app.stablejack.xyz/",
       "tags": [
         "DeFi"
       ],
@@ -37,7 +37,7 @@
             {
               "name": "Mint aUSD with USDT/USDC/AVAX",
               "type": "MINT",
-              "description": "Mint aUSD with sAVAX from our platform",
+              "description": "Mint aUSD with USDT/USDC/AVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0x2b08548b"
             }
@@ -55,7 +55,7 @@
       "description": "Mint xAVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://app.stablejack.xyz/",
       "tags": [
         "DeFi"
       ],
@@ -83,7 +83,7 @@
             {
               "name": "Mint xAVAX with USDT/USDC/AVAX",
               "type": "MINT",
-              "description": "Mint xAVAX with sAVAX from our platform",
+              "description": "Mint xAVAX with USDT/USDC/AVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0xf48b8acb"
             }
@@ -101,7 +101,7 @@
       "description": "Mint xAVAX and aUSD",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://app.stablejack.xyz/",
       "tags": [
         "DeFi"
       ],
@@ -147,7 +147,7 @@
       "description": "Deposit aUSD into Rebalance Pool",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://app.stablejack.xyz/rebalancepool",
       "tags": [
         "DeFi"
       ],
@@ -186,7 +186,7 @@
       "description": "Deposit aUSD/USDC into the Pharaoh Pool",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://app.stablejack.xyz/",
       "tags": [
         "DeFi"
       ],
@@ -207,7 +207,7 @@
             {
               "name": "Deposit aUSD/USDC to Pharaoh Pool",
               "type": "DEPOSIT",
-              "description": "Deposit aUSD into Rebalance Pool",
+              "description": "Deposit aUSD into Pharaoh Pool",
               "contract_address": "0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
               "method_id": "0xe6c620f0"
             }
@@ -225,7 +225,7 @@
       "description": "Deposit aUSD/USDC into the Trader Joe Pool",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0xabe7a9dfda35230ff60d1590a929ae0644c47dc1/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/1",
       "tags": [
         "DeFi"
       ],
@@ -265,11 +265,11 @@
       "description": "LP Provider",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
-      "projectUrl": "app.stablejack.xyz",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0xabe7a9dfda35230ff60d1590a929ae0644c47dc1/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/1",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 175,
+      "total_points_reward": 150,
       "quests": [
         {
           "name": "LP Provider: Provide at least $2,500 to Trader Joe Pool",
@@ -291,7 +291,7 @@
               "method_id": "0xa3c7271a",
               "type": "DEPOSIT",
               "metadata": {
-                "threshold": 2000
+                "threshold": 2500
               }
             }
           ]
@@ -347,8 +347,8 @@
           ]
         },
         {
-          "name": "Mint at least 50sAVAX",
-          "description": "Mint at least 50sAVAX form our platform",
+          "name": "Mint at least 50 xAVAX",
+          "description": "Mint at least 50 xAVAX from our platform",
           "category": "DeFi",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "frequency": "daily",
@@ -360,8 +360,8 @@
           ],
           "tasks": [
             {
-              "name": "Mint at least 50sAVAX",
-              "description": "Mint at least 50sAVAX from our platform",
+              "name": "Mint at least 50 xAVAX",
+              "description": "Mint at least 50 xAVAX from our platform",
               "type": "MINT",
               "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
               "method_id": "0xa3c7271a",
@@ -376,6 +376,48 @@
         "name": "Stable jack ",
         "description": "This certifies that I completed Stable Jack's Mission"
       }
+    },
+    {
+      "name": "Mint xAVAX",
+      "id": "mint_xavax_daily_missions",
+      "frequency": "daily",
+      "description": "Mint xAVAX Daily",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
+      "projectUrl": "https://app.stablejack.xyz/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 25,
+      "quests": [
+        {
+          "name": "Mint at least 50 xAVAX",
+          "description": "Mint at least 50 xAVAX form our platform",
+          "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Mint at least 50 xAVAX",
+              "description": "Mint at least 50 xAVAX from our platform in one transaction",
+              "type": "MINT",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_ids":["0xccb6379d","0xf48b8acb"] ,
+              "metadata": {
+                "threshold": 50,
+                "checkFirstTransfer":true,
+                "isNotNativeToken":true
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -9,6 +9,7 @@
       "id": "arrow_markets_options_missions",
       "featuredImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
       "bannerImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
+      "projectUrl": "https://www.arrow.markets/",
       "tags": [
         "DeFi"
       ],
@@ -47,6 +48,7 @@
       "description": "Provide Liquidity on Trader Joe for the Arrow Market Liquidity Pool",
       "featuredImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
       "bannerImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x5c5e384bd4e36724b2562ccaa582afd125277c9b/AVAX/100",
       "tags": [
         "DeFi"
       ],
@@ -87,6 +89,7 @@
       "description": "Complete liquidity provision and purchasing option on Arrow Markets",
       "featuredImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
       "bannerImgUrl": "https://pbs.twimg.com/profile_images/1848486465044680705/e5GF3YJ3_400x400.jpg",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x5c5e384bd4e36724b2562ccaa582afd125277c9b/AVAX/100",
       "tags": [
         "DeFi"
       ],
@@ -111,7 +114,9 @@
               "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
               "method_id": "0x383d15c5",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "sumLastTwo":true,
+                "isNotNativeToken":true
               }
             }
           ]
@@ -136,7 +141,9 @@
               "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
               "method_id": "0x383d15c5",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "sumLastTwo":true,
+                "isNotNativeToken":true
               }
             }
           ]
@@ -161,7 +168,9 @@
               "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
               "method_id": "0x383d15c5",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "sumLastTwo":true,
+                "isNotNativeToken":true
               }
             }
           ]
